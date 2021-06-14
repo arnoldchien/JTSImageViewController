@@ -18,7 +18,7 @@ let package = Package(
             exclude: [
                 "JTSImageViewController-Prefix.pch",
                 "JTSImageViewController-Info.plist"
-            ].
+            ],
             publicHeadersPath: ""
         ),
     ]
